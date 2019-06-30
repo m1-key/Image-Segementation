@@ -58,5 +58,5 @@ class Segmentation:
         plt.imshow(new_image)
         plt.show()
         
-img=cv2.imread("D:\Mickey.jpg")
+img=cv2.imread("Mickey.jpg")
 IS=Segmentation(img,5)
