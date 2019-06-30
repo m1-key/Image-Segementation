@@ -14,7 +14,13 @@
 * ``` Reading the image --> converting it into 2D array --> Applying K Means --> Extracting the dominant colors --> Assigning these colors to new image --> Reshaping it into original size. ``` 
 ---
 ## Example
-``` Let say we have an image in which blue color is dominant , each point in the image is characterized by the pixel and since blue color is dominant , so all the blue color point will have same pixel value. When K means clustering is applied , it groups all those blue color points into a cluster as these points are similar. Similary if an image has more than one dominant color then this algorithm group all the similar pixel points together into a cluster. In this way this algorith helps to find dominant colors of an image. ```
+``` 
+Let say we have an image in which blue color is dominant .Each point in the image is characterized by the pixel  
+and since blue color is dominant , so all the blue color point will have same pixel value. When K means clustering   
+is applied , it groups all those blue color points into a cluster as these points are similar. Similary if an   
+image has more than one dominant color then this algorithm group all the similar pixel points together into   
+a cluster. In this way this algorith helps to find dominant colors of an image. 
+```
 
 ### Note:
 IPYNB file contains the example with code.  So go through that to get better intutuion about this algorithm.
