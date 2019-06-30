@@ -19,7 +19,7 @@ Let say we have an image in which blue color is dominant .Each point in the imag
 and since blue color is dominant , so all the blue color point will have same pixel value. When K means clustering   
 is applied , it groups all those blue color points into a cluster as these points are similar. Similary if an   
 image has more than one dominant color then this algorithm group all the similar pixel points together into   
-a cluster. In this way this algorith helps to find dominant colors of an image. 
+a cluster. In this way this algorithm helps to find dominant colors of an image. 
 ```
 
 ### Note:
