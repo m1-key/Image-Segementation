@@ -3,6 +3,7 @@
 * K Means Clustering is used here to perform this task.
 ---
 ### What is K Means Clustering ?
+Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group.
 * This algorithm basically follow 4 steps.
 1.  It first randomly intialize centres.
 2.  It computes the distance of each point from each center and associates the point to that center from which its Eucledian distance is minimum. (```Euclidean Distance between two points ((x,y),(a,b)) is given as = √(x - a)² + (y - b)²```)
