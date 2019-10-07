@@ -1,4 +1,7 @@
 # Image-Segementation
+<img src="http://www.robots.ox.ac.uk/~aarnab/projects/cvpr_2018/frankfurt_000000_000294_gtFine_color.png"
+     alt="M"
+     style="float: left; margin-right: 10px;" />
 * This whole program is made to extract the dominant colors of the image and then to recreate the image with those dominant colors.
 * K Means Clustering is used here to perform this task.
 ---
