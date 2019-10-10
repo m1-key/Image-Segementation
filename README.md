@@ -24,3 +24,4 @@ a cluster. In this way this algorithm helps to find dominant colors of an image.
 
 ### Note:
 IPYNB file contains the example with code.  So go through that to get better intution about this algorithm.
+This is it.
